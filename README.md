@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - Link to [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/)
 ### Languages I know
-![python](https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg)
+![python](https://en.wikiversity.org/wiki/Python#/media/File:Python.svg)
 
 <!--
 **Muhammad-Bilal-Arshad/Muhammad-Bilal-Arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
