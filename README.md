@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning ReactJs
 - 😄 Pronouns: He/Him
-- Link to [LinkedIn].(https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/)
+- Link to [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/)
 
 <!--
 **Muhammad-Bilal-Arshad/Muhammad-Bilal-Arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
