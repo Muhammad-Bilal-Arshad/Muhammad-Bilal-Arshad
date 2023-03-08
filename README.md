@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ReactJs
 - 😄 Pronouns: He/Him
 - Link to [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/)
+### Languages I know
+https://camo.githubusercontent.com/a595b7ae653b19493f79c722ee8c39517c1e7f36364d2aabff6c8c967bdb44c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
 
 <!--
 **Muhammad-Bilal-Arshad/Muhammad-Bilal-Arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
