@@ -5,6 +5,7 @@
 - Link to [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/)
 ### Languages I know
 ![Javascript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
 
 <!--
 **Muhammad-Bilal-Arshad/Muhammad-Bilal-Arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
