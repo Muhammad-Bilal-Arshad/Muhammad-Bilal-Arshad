@@ -5,7 +5,7 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-   <a href="mailto:fasih682@gmail.com">
+   <a href="mailto:muhammadbilalarshad490@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fasih682@gmail.com" />
   </a>
 </p>
