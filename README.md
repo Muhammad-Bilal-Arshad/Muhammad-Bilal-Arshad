@@ -18,13 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Bilal-Arshad/](https://github.com/Muhammad-Bilal-Arshad/)
 
-- 📫 Portfolio: [https://www.maverickphp.com/](https://www.maverickphp.com/)
-
 - 💬 Ask me about **React, JavaScript, Node.Js**
 
-- 📫 How to reach me **fasih682@gmail.com**
+- 📫 How to reach me **muhammadbilalarshad490@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maverickphp/](https://www.linkedin.com/in/maverickphp/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-bilal-arshad/](https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/)
 
 
 ## 🌐 Languages and Tools :
@@ -96,8 +94,8 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maverickphp&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilalArshad&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilalArshad&theme=tokyonight" />
 </div>
 
 <br/>
