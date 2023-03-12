@@ -8,7 +8,15 @@
    <a href="mailto:muhammadbilalarshad490@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fasih682@gmail.com" />
   </a>
+   <a href="https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="https://www.instagram.com/bilalarshad666/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+   </a>
 </p>
+
+
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
