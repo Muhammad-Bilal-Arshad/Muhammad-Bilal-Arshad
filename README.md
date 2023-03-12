@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maverickphp/](https://github.com/maverickphp/)
+- 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Bilal-Arshad/]((https://github.com/Muhammad-Bilal-Arshad/))
 
 - 📫 Portfolio: [https://www.maverickphp.com/](https://www.maverickphp.com/)
 
