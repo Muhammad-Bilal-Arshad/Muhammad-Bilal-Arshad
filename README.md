@@ -102,8 +102,8 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilalArshad&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilalArshad&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-Arshad&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-Arshad&theme=tokyonight" />
 </div>
 
 <br/>
