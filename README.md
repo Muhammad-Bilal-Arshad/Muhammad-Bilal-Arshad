@@ -104,9 +104,10 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-Arshad&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-Arshad&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-Arshad&layout=compact&theme=vision-friendly-dark" />
 </div>
-
 <br/>
+
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <!--
