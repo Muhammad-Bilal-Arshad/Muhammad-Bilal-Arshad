@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Bilal-Arshad/](https://github.com/Muhammad-Bilal-Arshad/)
 
-- 💬 Ask me about **ReactJs, JavaScript, Node.Js**
+- 💬 Ask me about **ExpressJs, JavaScript, Node.Js**
 
 - 📫 How to reach me **muhammadbilalarshad490@gmail.com**
 
