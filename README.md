@@ -1,7 +1,7 @@
 <h1 align="center"> Heyy! , I'm Muhammad Bilal Arshad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<!--img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<!--img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/-->
 
 
 ## 💡 Connect with me :
