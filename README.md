@@ -115,6 +115,7 @@
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-Arshad&layout=compact&theme=vision-friendly-dark" />
 </div>
 <br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Bilal-Arshad&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 
 
 
