@@ -28,7 +28,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
-- 🌱 I’m currently working on ExpressJs.
+- 🌱 I’m currently working on ExpressJs and React Native.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Bilal-Arshad/](https://github.com/Muhammad-Bilal-Arshad/)
 
