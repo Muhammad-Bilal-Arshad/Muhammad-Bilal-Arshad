@@ -4,10 +4,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <!--img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/-->
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Bilal&label=VIsitors&color=6&icon=5&pretty=false" />
-</a>
-
 ## 💡 Connect with me :
 <p align="left"> 
    <a href="mailto:muhammadbilalarshad490@gmail.com">
@@ -37,6 +33,8 @@
 - 📫 How to reach me **muhammadbilalarshad490@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-bilal-arshad/](https://www.linkedin.com/in/muhammad-bilal-arshad-26ab67220/)
+
+- PortFolio [https://portfolio-muhammad-bilal-arshads-projects.vercel.app/](https://portfolio-muhammad-bilal-arshads-projects.vercel.app/)
 
 
 ## 🌐 Languages and Tools :
@@ -116,6 +114,11 @@
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-Arshad&layout=compact&theme=vision-friendly-dark" />
 </div>
 <br/>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Bilal&label=VIsitors&color=6&icon=5&pretty=false" />
+</a>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Bilal-Arshad&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 
 
